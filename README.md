@@ -22,4 +22,4 @@ Open the project folder-
 Run the index.html file in a web browser-
 Start interacting with the Rubik’s Cube
 
-![image alt]()
+![image alt](https://github.com/shi150/rubiks-cube-solver/blob/689dfd180f97526fad67b063ec88cfe3a5e1777e/Screenshot%202026-04-05%20091235.png)
